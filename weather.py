@@ -2,7 +2,8 @@ import requests
 from time import sleep
 text = 'Weather'
 textpt = 'Temperatura'
-api_key = '8a4372d9545e12dc13b26ded43a63c54'
+#add your weatherstack API here
+api_key = ''
 while True:
     try:
         print('Select Language',)
